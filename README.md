@@ -1,8 +1,6 @@
-## Projeto CV blablabla
+## Basic CV design
 
-askjgasgasgasgasgasjngasg
-asgasipgajsgasgnasg
-asgijasgagasgqa
+This was an activity for my **Ultima** course where we needed to make a basic curriculum using only HTML and images
 
 
 
